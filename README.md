@@ -1,2 +1,3 @@
 # Git/GitHub Curso em Vídeo
- Curso do canal curso em video de Git e GitHub
+ Curso do canal curso em video introdutorio de Git e GitHub
+
