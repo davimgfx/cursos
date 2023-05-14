@@ -5,5 +5,5 @@ Embora o curso tenha sido lançado há 3 anos, ele ainda é muito relevante para
 
 Ao longo do curso, o instrutor Gustavo Guanabara, um profissional experiente no desenvolvimento de software, guia os alunos passo a passo na utilização do Git e GitHub. Através de vários vídeos, o curso ensina como gerenciar projetos, controlar versões, colaborar com outros desenvolvedores e muito mais. O curso é bem estruturado e projetado para que mesmo os iniciantes possam acompanhar e aprender facilmente.
 
-Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub e GitHub Dewsktop e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
+Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub e GitHub Desktop e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
 
