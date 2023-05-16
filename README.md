@@ -5,9 +5,11 @@ Além disso, o curso introduz a linguagem Markdown. A sintaxe do Markdown é pro
 
 Embora o curso tenha sido lançado há 3 anos, ele ainda é muito relevante para os dias de hoje, pois as aplicações do Git e GitHub continuam sendo amplamente utilizadas em projetos de desenvolvimento de software.
 
-Ao longo do curso, o instrutor Gustavo Guanabara, um profissional experiente no desenvolvimento de software, guia os alunos passo a passo na utilização do Git e GitHub. Através de vários vídeos, o curso ensina como gerenciar projetos, controlar versões, colaborar com outros desenvolvedores e muito mais. O curso é bem estruturado e projetado para que mesmo os iniciantes possam acompanhar e aprender facilmente.
+Ao longo do curso, o instrutor Gustavo Guanabara, um profissional experiente no desenvolvimento de software, guia os alunos passo a passo na utilização do Git e GitHub. Através de vários vídeos, o curso ensina como gerenciar projetos, controlar versões, colaborar com outros desenvolvedores, escrever na linguagem Markdown e muito mais. O curso é bem estruturado e projetado para que mesmo os iniciantes possam acompanhar e aprender facilmente.
 
-Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub e GitHub Desktop e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
+Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub, GitHub Desktop e linguagem Markdown, e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
+
+Segue como utilizar algums comandos em Markdown:
 
 ## Testando a linguagem MarkDown
 
@@ -32,11 +34,11 @@ Espero  que este curso ajude você, assim como me ajudou, a se tornar mais profi
 
 ### Lista demarcada:
 
-* Test
-* Test
-* Test
-  * Test
-* Test
+* Teste1
+* Teste2
+* Teste3
+  * Teste3.1
+* Teste4
 
 ### Lista de tarefas:
 - [ ] Tarefa 1
@@ -48,3 +50,24 @@ Espero  que este curso ajude você, assim como me ajudou, a se tornar mais profi
 
 ### Images:
 ![Imagem do Google](https://t.ctcdn.com.br/essK16aBUDd_65hp5umT3aMn_i8=/400x400/smart/filters:format(webp)/i606944.png)
+
+### Ênfase:
+*texto em itálico*  
+**texto em negrito**
+
+## Tabelas:
+Num | Nome | Nota | Emoji
+---|---|---|---
+1 | Davi | 9,5 | 👍
+2 | Gustavo | 8,7 | 😎
+3 | Ninja | 10 | 👌
+4 | Carlo | 3,5 | 🤔
+5 | João | 7 | 🤖
+
+## Escrever linhas de código:
+```
+    npm instal
+```
+### Você pode escrever assim também:
+
+` document.querySelector(".section")`
