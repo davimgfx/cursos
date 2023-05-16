@@ -7,3 +7,24 @@ Ao longo do curso, o instrutor Gustavo Guanabara, um profissional experiente no 
 
 Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub e GitHub Desktop e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
 
+## Testando a linguagem MarkDown
+
+Podemos _*misturar*_ configurações
+
+### Lista numerada:
+
+1. Test
+2. Test2
+3. Test3
+  1. SubTest3.1
+  2. SubTest3.2
+5. Test4
+
+### Lista demarcada:
+
+* Test
+* Test
+* Test
+  * Test
+* Test
+
