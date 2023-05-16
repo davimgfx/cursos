@@ -5,9 +5,9 @@ O curso também introduz a linguagem Markdown, que permite adicionar formataçã
 
 Este curso ensina como hospedar seus sites no próprio GiHub também.
 
-Embora o curso tenha sido lançado há 3 anos, ele ainda é muito relevante para os dias de hoje, pois as aplicações do Git e GitHub continuam sendo amplamente utilizadas em projetos de desenvolvimento de software.
-
 Ao longo do curso, o instrutor Gustavo Guanabara, um profissional experiente no desenvolvimento de software, guia os alunos passo a passo na utilização do Git e GitHub. Através de vários vídeos, o curso ensina como gerenciar projetos, controlar versões, colaborar com outros desenvolvedores, escrever na linguagem Markdown e muito mais. O curso é bem estruturado e projetado para que mesmo os iniciantes possam acompanhar e aprender facilmente.
+
+Embora o curso tenha sido lançado há 3 anos, ele ainda é muito relevante para os dias de hoje, pois as aplicações do Git e GitHub continuam sendo amplamente utilizadas em projetos de desenvolvimento de software.
 
 Espero  que este curso ajude você, assim como me ajudou, a se tornar mais proficientes no Git, GitHub, GitHub Desktop e linguagem Markdown, e que possa aplicar essas habilidades em seus próprios projetos e colaborar com outros desenvolvedores de maneira mais eficaz.
 
