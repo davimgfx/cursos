@@ -9,7 +9,12 @@ Espero  que este curso ajude você, assim como me ajudou, a se tornar mais profi
 
 ## Testando a linguagem MarkDown
 
-Podemos _*misturar*_ configurações
+### Títulos:
+
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
 
 ### Lista numerada:
 
