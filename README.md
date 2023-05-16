@@ -1,5 +1,5 @@
 # Git/GitHub Curso em Vídeo
-Este é o repositório do curso de Git e GitHub do canal "Curso em Vídeo".  O curso é voltado para iniciantes e aborda os comandos básicos do Git, como git pull, git copy, git checkout, git Branches, entre outros, por meio de um processo alternativo simples e efetivo com o GitHub Desktop, uma ferramenta popular para trabalhar com repositórios do GitHub.  Além disso, o curso aborda a configuração de segurança da conta no GitHub.
+Este é o repositório do curso de Git e GitHub do canal "Curso em Vídeo".  O curso é voltado para iniciantes e aborda os comandos básicos do Git, como git pull, git copy, git checkout, git Branches, entre outros, por meio de um processo alternativo simples e efetivo com o GitHub Desktop, uma ferramenta popular para trabalhar com repositórios do GitHub.  Além disso, o curso aborda como realizar a configuração de segurança da conta no GitHub.
 
 O curso também introduz a linguagem Markdown, que permite adicionar formatação básica ao texto, como cabeçalhos, listas, enfatizar palavras ou frases, criar links, adicionar imagens, entre outros. 
 
