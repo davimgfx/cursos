@@ -13,9 +13,15 @@ Podemos _*misturar*_ configurações
 
 ### Lista numerada:
 
-1. Test
-0. Test3
-  1. Test3.1
+1. Item 1
+    - Subitem 1.1
+    - Subitem 1.2
+2. Item 2
+    - Subitem 2.1
+        - Subitem 2.1.1
+        - Subitem 2.1.2
+    - Subitem 2.2
+3. Item 3
 
 ### Lista demarcada:
 
