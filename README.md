@@ -42,3 +42,9 @@ Espero  que este curso ajude você, assim como me ajudou, a se tornar mais profi
 - [ ] Tarefa 1
 - [x] Tarefa 2
 - [ ] Tarefa 3
+
+### Link:
+[Google](https://www.google.com)
+
+### Images:
+![Imagem do Google]([https://www.exemplo.com/imagem.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Fgoogle%2F&psig=AOvVaw3cyEm7SW73hRvea2IAjfzB&ust=1684325055667000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiBs_bl-f4CFQAAAAAdAAAAABAE))
