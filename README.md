@@ -31,3 +31,7 @@ Podemos _*misturar*_ configurações
   * Test
 * Test
 
+### Lista de tarefas:
+- [ ] Tarefa 1
+- [x] Tarefa 2
+- [ ] Tarefa 3
