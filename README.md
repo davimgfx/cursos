@@ -47,4 +47,4 @@ Espero  que este curso ajude você, assim como me ajudou, a se tornar mais profi
 [Google](https://www.google.com)
 
 ### Images:
-![Imagem do Google]([https://www.exemplo.com/imagem.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Fgoogle%2F&psig=AOvVaw3cyEm7SW73hRvea2IAjfzB&ust=1684325055667000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiBs_bl-f4CFQAAAAAdAAAAABAE))
+![Imagem do Google](https://t.ctcdn.com.br/essK16aBUDd_65hp5umT3aMn_i8=/400x400/smart/filters:format(webp)/i606944.png)
