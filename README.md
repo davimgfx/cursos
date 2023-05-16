@@ -16,9 +16,7 @@ Podemos _*misturar*_ configurações
 1. Test
 2. Test2
 3. Test3
-  i. SubTest3.1
-  ii. SubTest3.2
-5. Test4
+  i. Test3.1
 
 ### Lista demarcada:
 
