@@ -14,9 +14,9 @@ Podemos _*misturar*_ configurações
 ### Lista numerada:
 
 1. Test
-2. Test2
-3. Test3
-  i. Test3.1
+1. Test2
+0. Test3
+  1. Test3.1
 
 ### Lista demarcada:
 
