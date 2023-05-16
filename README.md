@@ -14,7 +14,6 @@ Podemos _*misturar*_ configurações
 ### Lista numerada:
 
 1. Test
-1. Test2
 0. Test3
   1. Test3.1
 
