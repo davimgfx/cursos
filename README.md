@@ -13,14 +13,14 @@ Segue como utilizar algums comandos em Markdown:
 
 ## Testando a linguagem MarkDown
 
-### Títulos:
+### **Títulos**:
 
 # Título 1
 ## Título 2
 ### Título 3
 #### Título 4
 
-### Lista numerada:
+### **Lista numerada**:
 
 1. Item 1
     - Subitem 1.1
@@ -32,7 +32,7 @@ Segue como utilizar algums comandos em Markdown:
     - Subitem 2.2
 3. Item 3
 
-### Lista demarcada:
+### **Lista demarcada**:
 
 * Teste1
 * Teste2
@@ -40,22 +40,22 @@ Segue como utilizar algums comandos em Markdown:
   * Teste3.1
 * Teste4
 
-### Lista de tarefas:
+### **Lista de tarefas**:
 - [ ] Tarefa 1
 - [x] Tarefa 2
 - [ ] Tarefa 3
 
-### Link:
+### **Link**:
 [Google](https://www.google.com)
 
-### Images:
+### **Images**:
 ![Imagem do Google](https://t.ctcdn.com.br/essK16aBUDd_65hp5umT3aMn_i8=/400x400/smart/filters:format(webp)/i606944.png)
 
-### Ênfase:
+### **Ênfase**:
 *texto em itálico*  
 **texto em negrito**
 
-## Tabelas:
+## **Tabelas**:
 Num | Nome | Nota | Emoji
 ---|---|---|---
 1 | Davi | 9,5 | 👍
@@ -64,10 +64,10 @@ Num | Nome | Nota | Emoji
 4 | Carlo | 3,5 | 🤔
 5 | João | 7 | 🤖
 
-## Escrever linhas de código:
+## **Escrever linhas de código**:
 ```
     npm instal
 ```
-### Você pode escrever assim também:
+### **Você pode escrever assim também**:
 
 ` document.querySelector(".section")`
