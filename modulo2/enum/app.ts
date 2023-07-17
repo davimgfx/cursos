@@ -25,4 +25,33 @@ enum Idiomas{
     Ingles
 }
 
+console.log(Idiomas)
 console.log(Idiomas.Portugues)
+// Não é recomendado tipo string
+
+//String Enums 
+
+enum Dias {
+    segunda = "seg",
+    terca = "ter",
+    quarta = "qua",
+    quinta = "qui",
+    sexta = "sex",
+    sabado = "sab",
+    domingo = "dom"
+}
+
+console.log(Dias)
+console.log(Dias["segunda"])
+
+const enum Comidas {
+    Pizza = "Pizza",
+    CachorroQuente = "Dog",
+    Misto = "Misto"
+}
+
+function comida(c: Comidas) {
+    return `Comida muito boa ${c}`
+}
+
+console.log(comida(Comidas.Misto))
