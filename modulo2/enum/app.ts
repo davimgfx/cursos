@@ -1,4 +1,4 @@
-//Enuamerar os valores, mapeiam chaves para valores
+-//Enuamerar os valores, mapeiam chaves para valores
 //Estruturas de dados não ordenadas
 /* 
 
