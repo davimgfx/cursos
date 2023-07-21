@@ -28,10 +28,32 @@ function myTimeIsBatAss(): void {
 }
 
 const myTimeIsBatAss2 = () => {
-    const a = "string"
+    const a = "string231"
     const b = "string2"
     console.log(a + " " + b)
 }
 
 myTimeIsBatAss()
 myTimeIsBatAss2()
+
+function anotherExample(mensagem: string): void {
+    console.log(mensagem)
+}
+
+// or
+
+function anotherExample2(mensagem: string) {
+    console.log(mensagem)
+}
+
+anotherExample("name")
+anotherExample2("name")
+
+function sumNumbers(num1: number, num2: number): number{
+    return num1 + num2
+}
+
+const sumNumbers2 =  (num1: number, num2: number) : number => num1 + num2
+
+console.log(sumNumbers(1, 3))
+console.log(sumNumbers2(5,10))
