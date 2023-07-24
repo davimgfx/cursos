@@ -4,6 +4,9 @@
 
 # Curso Typescript Glaucia Lemos
 ## Modulo 1
+
+![Screenshot_1](https://github.com/davimgfx/curso-typescript-glaucia-lemos/assets/118557337/53e869fb-cbbd-49cf-ac25-34f1fd99c8f5)
+
 - o que é TypeScript?
 - Arquivo tsconfig.json
 - O "famoso" Hello World
@@ -11,6 +14,9 @@
 
 ## Modulo 2
 ### Os tipos primitivos de dados (Type Annotation -> Típagem)
+
+![Declaring-the-Variable-in-Typescript](https://github.com/davimgfx/curso-typescript-glaucia-lemos/assets/118557337/7dbd1aeb-d077-4fcf-b6dc-8c4b338cebce)
+
 - Any
 - Boolean
 - Tuplas
