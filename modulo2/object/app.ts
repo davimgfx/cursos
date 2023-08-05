@@ -105,3 +105,46 @@ const filha: Filha = {
 }
 
 console.log(filha)
+
+// Interseções
+
+interface Email {
+    email: string
+}
+
+type EmailApi = Email | null
+
+
+// Generic objects
+
+type Usuario = {
+    nome: string;
+    email: string;
+}
+
+type Admin = {
+    nome: string;
+    email: string;
+    admin: boolean
+}
+
+const usuario: Usuario = {
+    nome: "Davi",
+    email: "davi@gmail.com"
+}
+
+
+const admin: Admin = {
+    nome: "Davi",
+    email: "davi@gmail.com",
+    admin: true,
+}
+
+// Este T, signfica que a função é generica e aceita varios tipos diferentes
+
+function acessarSistema<T>(usuario: T): T{
+    return usuario
+}
+
+console.log(acessarSistema<Usuario>(usuario))
+console.log(acessarSistema<Admin>(admin))
