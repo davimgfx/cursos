@@ -34,3 +34,18 @@ function onboarding3(pessoa: Pessoa03) {
 }
 
 onboarding3({ nome: "Glaucia Lemos", funcao: "sinistra"})
+
+// Using optional no object
+
+interface Pessoa04 {
+    nome: string;
+    idade: number;
+    isAdmin: boolean;
+    email ?: string;
+}
+
+function onboarding4(pessoa: Pessoa04) {
+    console.log("Seja bem vinda " + pessoa.nome + " com a idade " + pessoa.idade)
+}
+
+onboarding4({ nome: "Glaucia Lemos", idade: 22, isAdmin: false }) 
