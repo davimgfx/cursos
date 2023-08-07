@@ -60,7 +60,6 @@ function onboarding3(pessoa: Pessoa03) {
 
 onboarding3({ nome: "Glaucia Lemos", funcao: "sinistra"})
 
-<<<<<<< HEAD
 // Using optional no object
 
 interface Pessoa04 {
@@ -75,19 +74,8 @@ function onboarding4(pessoa: Pessoa04) {
 }
 
 onboarding4({ nome: "Glaucia Lemos", idade: 22, isAdmin: false }) 
-=======
+
 // Interface
-interface Pessoa04{
-    nome: string;
-    funcao: string;
-    email?: string; 
-}
-
-function onboarding4(pessoa: Pessoa04) {
-    console.log("Seja bem vinda " + pessoa.nome + " com a função " + pessoa.funcao)
-}
-
-onboarding4({nome: "Davi" , funcao: "rei do pvp agora"})
 
 interface Pessoa05{
     nome: string;
