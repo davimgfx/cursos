@@ -29,3 +29,11 @@
 - Null e Undefined
 - Never
 - Object
+
+
+## Modulo 3
+### Condicionais
+![spaces_jFR9F4NToQ6FD39fU3wC_uploads_git-blob-78673a798e8cfeb3846f2a644476eea6445d3792_if-else](https://github.com/davimgfx/curso-typescript-glaucia-lemos/assets/118557337/deb7748c-639d-4bf8-98c9-b67270c312cf)
+
+- If/else, operador ternário
+
