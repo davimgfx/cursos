@@ -3,6 +3,9 @@
 // Só aceita apenas um valor
 // É um objeto
 
+let variavelTeste2 = null
+console.log(variavelTeste2)
+console.log(typeof variavelTeste2)
 
 // Undefined
 // Tem apenas um valor
