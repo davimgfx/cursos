@@ -37,4 +37,14 @@
 
 - If/else, operador ternário
 - Switch case
+- For
+- Do/While
 
+## Modulo 4
+### Funções
+<img width="925" alt="typescript-function-type-5" src="https://github.com/davimgfx/curso-typescript-glaucia-lemos/assets/118557337/09ef4d82-7598-4778-922f-7b6ff4f14862">
+
+## Modulo 8
+
+### Generics
+![1_Zz4Y9ScEbGbRrtIWby4msg](https://github.com/davimgfx/curso-typescript-glaucia-lemos/assets/118557337/d156dd1d-c0c1-4310-8fac-0a3208e1b227)
