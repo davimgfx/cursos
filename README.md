@@ -49,7 +49,8 @@
 - Default Parameters
 - Rest Parameters
 
-
+## Modulo 5
+### Classes em TypeScript
 
 ## Modulo 8
 ### Generics
