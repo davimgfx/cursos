@@ -22,3 +22,20 @@ class Pessoa {
 const george = new Pessoa("George", 24, ["Box", "Code"])
 
 console.log(george.Cadastro())
+
+class Estudante {
+    codigoEstudante;
+    nomeEstudante;
+
+    constructor() {
+        this.codigoEstudante = 0;
+        this.nomeEstudante = "";
+    }
+}
+
+const estudante = new Estudante();
+
+estudante.codigoEstudante = 190829; // Correto: removendo o zero à esquerda
+estudante.nomeEstudante = "Davi";
+
+console.log(estudante);
