@@ -1,6 +1,6 @@
 import { PostCard } from "../";
 import { useState, useEffect } from "react";
-import { PostProps } from "../../types";
+import { PostProps } from "../../types/types";
 const PostList = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -18,6 +18,7 @@ const PostList = () => {
     } catch (error) {
       console.error("Error fetching data:", error);
       setError(true);
+      console.log(erro)
     }
   };
 
@@ -27,9 +28,6 @@ const PostList = () => {
   
   return (
     <section>
-      {/* {data && data.map((post: { id: number, title: string, body: string}) => (
-        <PostCard {...post} key={post.id}/>
-      ))} */}
       {data &&
         data.map((post: PostProps) => <PostCard {...post} key={post.id} />)}
     </section>
